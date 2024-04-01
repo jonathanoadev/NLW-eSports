@@ -7,7 +7,7 @@ ___
 
 Projeto construído do evento Next Level Week da Rocketseat
 
-↪ **[Clique aqui para acessar](https://johnsoa-d.github.io/NLW-eSports/)**
+↪ **[Clique aqui para acessar](https://jonathanoadev.github.io/NLW-eSports/)**
 
 ## ⚒ T͟e͟cnologias
 
@@ -18,4 +18,4 @@ Projeto construído do evento Next Level Week da Rocketseat
 
 ## ✉ C͟o͟ntato
 
-xJonathanoa@gmail.com
+contato@jonathanoa.me
